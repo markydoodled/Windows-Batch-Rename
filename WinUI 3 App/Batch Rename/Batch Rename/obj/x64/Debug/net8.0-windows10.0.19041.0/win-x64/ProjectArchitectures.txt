@@ -1,0 +1,1 @@
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Batch Rename.csproj;x64

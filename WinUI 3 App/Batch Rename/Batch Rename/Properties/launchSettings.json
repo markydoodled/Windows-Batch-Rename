@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Batch Rename (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Batch Rename (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

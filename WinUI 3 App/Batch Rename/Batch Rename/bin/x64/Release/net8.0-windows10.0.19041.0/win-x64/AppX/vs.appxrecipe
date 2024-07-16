@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MARKS-DEV-VM</Machine>
+    <WindowsUser>Mark Howard</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>3b822b6a-bc4d-4e17-91a6-2f8bb13cc726</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Mark Howard</PackageIdentityPublisher>
+    <IntermediateOutputPath>F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\obj\x64\Release\net8.0-windows10.0.19041.0\win-x64\</IntermediateOutputPath>
+    <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\x64\Release\net8.0-windows10.0.19041.0\win-x64\AppX</LayoutDir>
+    <RegisteredManifestChecksum>2BAF1EE0807208A3AC56B287F9331E619454993E9664410A75C9BBC72BBF6A91</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3b822b6a-bc4d-4e17-91a6-2f8bb13cc726_1.0.1.0_x64__mxz403700jtze</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3b822b6a-bc4d-4e17-91a6-2f8bb13cc726_mxz403700jtze!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3b822b6a-bc4d-4e17-91a6-2f8bb13cc726</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mark Howard</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.1.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\x64\Release\net8.0-windows10.0.19041.0\win-x64\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-07-16T19:52:26.473</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\x64\Release\net8.0-windows10.0.19041.0\win-x64\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2024-07-16T19:52:00.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\x64\Release\net8.0-windows10.0.19041.0\win-x64\Batch Rename.runtimeconfig.json">
+      <PackagePath>Batch Rename.runtimeconfig.json</PackagePath>
+      <Modified>2024-07-16T19:52:00.078</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\obj\x64\Release\net8.0-windows10.0.19041.0\win-x64\apphost.exe">
+      <PackagePath>Batch Rename.exe</PackagePath>
+      <Modified>2024-07-16T19:51:59.189</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\packages\NuGet\cache\microsoft.netcore.app.runtime.win-x64\8.0.5\runtimes\win-x64\native\Microsoft.DiaSymReader.Native.amd64.dll">
+      <PackagePath>Microsoft.DiaSymReader.Native.amd64.dll</PackagePath>
+      <Modified>2024-01-19T20:37:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\packages\NuGet\cache\microsoft.netcore.app.runtime.win-x64\8.0.5\runtimes\win-x64\native\System.IO.Compression.Native.dll">
+      <PackagePath>System.IO.Compression.Native.dll</PackagePath>
+      <Modified>2024-04-16T22:21:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\packages\NuGet\cache\microsoft.netcore.app.runtime.win-x64\8.0.5\runtimes\win-x64\native\clretwrc.dll">
+      <PackagePath>clretwrc.dll</PackagePath>
+      <Modified>2024-04-16T22:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\packages\NuGet\cache\microsoft.netcore.app.runtime.win-x64\8.0.5\runtimes\win-x64\native\clrgc.dll">
+      <PackagePath>clrgc.dll</PackagePath>
+      <Modified>2024-04-16T22:12:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\packages\NuGet\cache\microsoft.netcore.app.runtime.win-x64\8.0.5\runtimes\win-x64\native\clrjit.dll">
+      <PackagePath>clrjit.dll</PackagePath>
+      <Modified>2024-04-16T22:14:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\packages\NuGet\cache\microsoft.netcore.app.runtime.win-x64\8.0.5\runtimes\win-x64\native\coreclr.dll">
+      <PackagePath>coreclr.dll</PackagePath>
+      <Modified>2024-04-16T22:19:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\packages\NuGet\cache\microsoft.netcore.app.runtime.win-x64\8.0.5\runtimes\win-x64\native\createdump.exe">
+      <PackagePath>createdump.exe</PackagePath>
+      <Modified>2024-04-16T22:17:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\packages\NuGet\cache\microsoft.netcore.app.runtime.win-x64\8.0.5\runtimes\win-x64\native\hostfxr.dll">
+      <PackagePath>hostfxr.dll</PackagePath>
+      <Modified>2024-04-16T22:48:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\packages\NuGet\cache\microsoft.netcore.app.runtime.win-x64\8.0.5\runtimes\win-x64\native\hostpolicy.dll">
+      <PackagePath>hostpolicy.dll</PackagePath>
+      <Modified>2024-04-16T22:48:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\packages\NuGet\cache\microsoft.netcore.app.runtime.win-x64\8.0.5\runtimes\win-x64\native\mscordaccore.dll">
+      <PackagePath>mscordaccore.dll</PackagePath>
+      <Modified>2024-04-16T22:26:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\packages\NuGet\cache\microsoft.netcore.app.runtime.win-x64\8.0.5\runtimes\win-x64\native\mscordaccore_amd64_amd64_8.0.524.21615.dll">
+      <PackagePath>mscordaccore_amd64_amd64_8.0.524.21615.dll</PackagePath>
+      <Modified>2024-04-16T22:26:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\packages\NuGet\cache\microsoft.netcore.app.runtime.win-x64\8.0.5\runtimes\win-x64\native\mscordbi.dll">
+      <PackagePath>mscordbi.dll</PackagePath>
+      <Modified>2024-04-16T22:26:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\packages\NuGet\cache\microsoft.netcore.app.runtime.win-x64\8.0.5\runtimes\win-x64\native\mscorrc.dll">
+      <PackagePath>mscorrc.dll</PackagePath>
+      <Modified>2024-04-16T22:17:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\packages\NuGet\cache\microsoft.netcore.app.runtime.win-x64\8.0.5\runtimes\win-x64\native\msquic.dll">
+      <PackagePath>msquic.dll</PackagePath>
+      <Modified>2024-04-16T22:21:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\packages\NuGet\cache\microsoft.windowsappsdk\1.5.240627000\runtimes\win-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+      <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+      <Modified>2024-06-25T19:48:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\obj\x64\Release\net8.0-windows10.0.19041.0\win-x64\linked\System.ComponentModel.dll">
+      <PackagePath>System.ComponentModel.dll</PackagePath>
+      <Modified>2024-07-16T19:52:18.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\obj\x64\Release\net8.0-windows10.0.19041.0\win-x64\R2R\Microsoft.InteractiveExperiences.Projection.dll">
+      <PackagePath>Microsoft.InteractiveExperiences.Projection.dll</PackagePath>
+      <Modified>2024-07-16T19:52:23.051</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\obj\x64\Release\net8.0-windows10.0.19041.0\win-x64\R2R\Microsoft.WinUI.dll">
+      <PackagePath>Microsoft.WinUI.dll</PackagePath>
+      <Modified>2024-07-16T19:52:23.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\obj\x64\Release\net8.0-windows10.0.19041.0\win-x64\R2R\Batch Rename.dll">
+      <PackagePath>Batch Rename.dll</PackagePath>
+      <Modified>2024-07-16T19:52:23.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\obj\x64\Release\net8.0-windows10.0.19041.0\win-x64\R2R\System.Collections.Concurrent.dll">
+      <PackagePath>System.Collections.Concurrent.dll</PackagePath>
+      <Modified>2024-07-16T19:52:23.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\obj\x64\Release\net8.0-windows10.0.19041.0\win-x64\R2R\System.Collections.Immutable.dll">
+      <PackagePath>System.Collections.Immutable.dll</PackagePath>
+      <Modified>2024-07-16T19:52:23.567</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\obj\x64\Release\net8.0-windows10.0.19041.0\win-x64\R2R\System.Collections.dll">
+      <PackagePath>System.Collections.dll</PackagePath>
+      <Modified>2024-07-16T19:52:23.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\obj\x64\Release\net8.0-windows10.0.19041.0\win-x64\R2R\System.Diagnostics.StackTrace.dll">
+      <PackagePath>System.Diagnostics.StackTrace.dll</PackagePath>
+      <Modified>2024-07-16T19:52:23.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\obj\x64\Release\net8.0-windows10.0.19041.0\win-x64\R2R\System.IO.Compression.dll">
+      <PackagePath>System.IO.Compression.dll</PackagePath>
+      <Modified>2024-07-16T19:52:23.863</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\obj\x64\Release\net8.0-windows10.0.19041.0\win-x64\R2R\System.IO.MemoryMappedFiles.dll">
+      <PackagePath>System.IO.MemoryMappedFiles.dll</PackagePath>
+      <Modified>2024-07-16T19:52:23.973</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\obj\x64\Release\net8.0-windows10.0.19041.0\win-x64\R2R\System.Linq.Expressions.dll">
+      <PackagePath>System.Linq.Expressions.dll</PackagePath>
+      <Modified>2024-07-16T19:52:24.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\obj\x64\Release\net8.0-windows10.0.19041.0\win-x64\R2R\System.Linq.dll">
+      <PackagePath>System.Linq.dll</PackagePath>
+      <Modified>2024-07-16T19:52:24.113</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\obj\x64\Release\net8.0-windows10.0.19041.0\win-x64\R2R\System.ObjectModel.dll">
+      <PackagePath>System.ObjectModel.dll</PackagePath>
+      <Modified>2024-07-16T19:52:24.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\obj\x64\Release\net8.0-windows10.0.19041.0\win-x64\R2R\System.Private.CoreLib.dll">
+      <PackagePath>System.Private.CoreLib.dll</PackagePath>
+      <Modified>2024-07-16T19:52:25.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\obj\x64\Release\net8.0-windows10.0.19041.0\win-x64\R2R\System.Private.Uri.dll">
+      <PackagePath>System.Private.Uri.dll</PackagePath>
+      <Modified>2024-07-16T19:52:25.613</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\obj\x64\Release\net8.0-windows10.0.19041.0\win-x64\R2R\System.Reflection.Metadata.dll">
+      <PackagePath>System.Reflection.Metadata.dll</PackagePath>
+      <Modified>2024-07-16T19:52:25.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\obj\x64\Release\net8.0-windows10.0.19041.0\win-x64\R2R\System.Security.Cryptography.dll">
+      <PackagePath>System.Security.Cryptography.dll</PackagePath>
+      <Modified>2024-07-16T19:52:25.820</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\obj\x64\Release\net8.0-windows10.0.19041.0\win-x64\R2R\Microsoft.Windows.SDK.NET.dll">
+      <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
+      <Modified>2024-07-16T19:52:25.879</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\obj\x64\Release\net8.0-windows10.0.19041.0\win-x64\R2R\WinRT.Runtime.dll">
+      <PackagePath>WinRT.Runtime.dll</PackagePath>
+      <Modified>2024-07-16T19:52:26.238</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\obj\x64\Release\net8.0-windows10.0.19041.0\win-x64\Batch Rename.deps.json">
+      <PackagePath>Batch Rename.deps.json</PackagePath>
+      <Modified>2024-07-16T19:52:26.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <Modified>2024-07-16T17:32:54.867</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\BadgeLogo.scale-125.png">
+      <PackagePath>Assets\BadgeLogo.scale-125.png</PackagePath>
+      <Modified>2024-07-16T17:32:54.882</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\BadgeLogo.scale-150.png">
+      <PackagePath>Assets\BadgeLogo.scale-150.png</PackagePath>
+      <Modified>2024-07-16T17:32:54.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\BadgeLogo.scale-200.png">
+      <PackagePath>Assets\BadgeLogo.scale-200.png</PackagePath>
+      <Modified>2024-07-16T17:32:54.909</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\BadgeLogo.scale-400.png">
+      <PackagePath>Assets\BadgeLogo.scale-400.png</PackagePath>
+      <Modified>2024-07-16T17:32:54.928</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <Modified>2024-07-16T17:35:33.893</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\LargeTile.scale-125.png">
+      <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
+      <Modified>2024-07-16T17:35:33.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\LargeTile.scale-150.png">
+      <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
+      <Modified>2024-07-16T17:35:33.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.009</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2024-05-29T21:24:07.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <Modified>2024-07-16T17:35:33.452</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+      <Modified>2024-07-16T17:35:33.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+      <Modified>2024-07-16T17:35:33.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <Modified>2024-07-16T17:35:33.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <Modified>2024-07-16T17:35:33.544</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.535</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.582</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <Modified>2024-07-16T17:35:33.565</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <Modified>2024-07-16T17:35:33.581</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <Modified>2024-07-16T17:35:33.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <Modified>2024-07-16T17:35:33.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <Modified>2024-07-16T17:35:33.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.410</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.436</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.389</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.178</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.197</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.211</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.245</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.344</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.321</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.299</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\StoreLogo.backup.png">
+      <PackagePath>Assets\StoreLogo.backup.png</PackagePath>
+      <Modified>2024-05-29T21:24:07.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.915</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.926</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.936</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <Modified>2024-07-16T17:35:34.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <Modified>2024-07-16T17:35:33.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <Modified>2024-07-16T17:35:33.737</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <Modified>2024-07-16T17:35:33.762</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <Modified>2024-07-16T17:35:33.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <Modified>2024-07-16T17:35:33.867</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="F:\packages\NuGet\cache\microsoft.windowsappsdk\1.5.240627000\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.5.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.5</Name>
+      <Version>5001.178.1908.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.5, MinVersion = 5001.178.1908.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>F:\packages\NuGet\cache\microsoft.windowsappsdk\1.5.240627000\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.5.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="F:\packages\NuGet\cache\microsoft.windowsappsdk\1.5.240627000\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.5.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.5</Name>
+      <Version>5001.178.1908.0</Version>
+      <Architecture>win32</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.5, MinVersion = 5001.178.1908.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>F:\packages\NuGet\cache\microsoft.windowsappsdk\1.5.240627000\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.5.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="F:\packages\NuGet\cache\microsoft.windowsappsdk\1.5.240627000\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.5.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.5</Name>
+      <Version>5001.178.1908.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.5, MinVersion = 5001.178.1908.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>F:\packages\NuGet\cache\microsoft.windowsappsdk\1.5.240627000\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.5.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="F:\packages\NuGet\cache\microsoft.windowsappsdk\1.5.240627000\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.5.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.5</Name>
+      <Version>5001.178.1908.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.5, MinVersion = 5001.178.1908.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>F:\packages\NuGet\cache\microsoft.windowsappsdk\1.5.240627000\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.5.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

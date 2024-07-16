@@ -1,0 +1,1 @@
+F:\release\Batch Rename_1.0.0.0_Debug_Test\Batch Rename_1.0.0.0_arm64_Debug.msix

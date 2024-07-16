@@ -1,0 +1,39 @@
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\Batch Rename.exe
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\Batch Rename.runtimeconfig.json
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\Microsoft.DiaSymReader.Native.amd64.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\System.IO.Compression.Native.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\clretwrc.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\clrgc.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\clrjit.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\coreclr.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\createdump.exe
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\hostfxr.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\hostpolicy.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\mscordaccore.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\mscordaccore_amd64_amd64_8.0.524.21615.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\mscordbi.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\mscorrc.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\msquic.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\Microsoft.WindowsAppRuntime.Bootstrap.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\resources.pri
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\System.ComponentModel.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\Batch Rename.pdb
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\Microsoft.InteractiveExperiences.Projection.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\Microsoft.WinUI.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\Batch Rename.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\System.Collections.Concurrent.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\System.Collections.Immutable.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\System.Collections.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\System.Diagnostics.StackTrace.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\System.IO.Compression.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\System.IO.MemoryMappedFiles.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\System.Linq.Expressions.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\System.Linq.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\System.ObjectModel.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\System.Private.CoreLib.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\System.Private.Uri.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\System.Reflection.Metadata.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\System.Security.Cryptography.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\Microsoft.Windows.SDK.NET.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\WinRT.Runtime.dll
+F:\source\Windows-Batch-Rename\WinUI 3 App\Batch Rename\Batch Rename\bin\Release\net8.0-windows10.0.19041.0\win-x64\publish\Batch Rename.deps.json
